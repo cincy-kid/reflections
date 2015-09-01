@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	it creates a new repo for your files. You need
+	to do it sop you can maintain version control.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	the stagin area is a place where you are preparing
+	the files you are about to commit. It groups files together for the commit.
