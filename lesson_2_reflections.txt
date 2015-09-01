@@ -7,3 +7,14 @@ How is the staging area different from the working directory and the repository?
 
 	the stagin area is a place where you are preparing
 	the files you are about to commit. It groups files together for the commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	use it in conjunction with teh git diff command and
+	git diff --staged command.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	when you want to try new things but not affect the
+	master. By allowing you to have an exact copy of the
+	master.
